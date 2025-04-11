@@ -7,7 +7,7 @@ const PORT = 3000;
 
 app.use(cors());
 
-// Dados estáticos (exemplo de livros)
+
 const livros = [
   { id: 1, titulo: "Dom Casmurro", autor: "Machado de Assis" },
   { id: 2, titulo: "O Pequeno Príncipe", autor: "Antoine de Saint-Exupéry" },
